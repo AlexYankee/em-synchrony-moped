@@ -108,5 +108,3 @@ module Moped
     end
   end
 end
-
-puts Moped::Connection::Socket::EmSSL.inspect

@@ -1,5 +1,6 @@
 # encoding: utf-8
 
+require 'moped/errors'
 require 'moped/cluster'
 
 module Moped
